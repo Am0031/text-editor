@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Am0031/text-editor/issues"
   },
-  "homepage": "https://github.com/Am0031/text-editor#readme"
+  "homepage": "https://github.com/Am0031/text-editor#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "concurrently": "^7.3.0",
+    "nodemon": "^2.0.19"
+  }
 }
