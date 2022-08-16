@@ -13,6 +13,7 @@
     "@babel/runtime": "^7.18.9",
     "babel-loader": "^8.2.5",
     "css-loader": "^6.7.1",
+    "http-server": "^14.1.1",
     "style-loader": "^3.3.1"
   }
 }
